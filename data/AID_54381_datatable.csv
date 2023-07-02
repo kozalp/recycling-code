@@ -1,0 +1,25 @@
+SMILES,PUBCHEM_ACTIVITY_OUTCOME,PUBCHEM_ACTIVITY_SCORE,PUBCHEM_ACTIVITY_URL,PUBCHEM_ASSAYDATA_COMMENT,PubChem Standard Value,Standard Type,Standard Relation,Standard Value,Standard Units,Data Validity Comment
+C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)N,Unspecified,,,,130,IC50,=,130000,nM,Outside typical range
+CC1=CC=C(C=C1)S(=O)(=O)NC2=CC=NN2C3=CC=CC=C3,Unspecified,,,,220,IC50,=,220000,nM,Outside typical range
+CCCN(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)N,Active,,,,8,IC50,=,8000,nM,
+CCCCN(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)N,Active,,,,4,IC50,=,4000,nM,
+C1=CC=C(C=C1)CN(C2=CC=NN2C3=CC=CC=C3)S(=O)(=O)C4=CC=C(C=C4)N,Unspecified,,,,15,IC50,=,15000,nM,
+CN(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)N,Unspecified,,,,50,IC50,=,50000,nM,
+C=CCC1=CC=C(C=C1)S(=O)(=O)NC2=CC=NN2C3=CC=CC=C3,Active,,,,10,IC50,=,10000,nM,
+C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)C4=CC(=CC=C4)[N+](=O)[O-],Active,,,,7,IC50,=,7000,nM,
+C1=CC=C(C=C1)N2C(=CC=N2)N(CCCO)S(=O)(=O)C3=CC=C(C=C3)CCN,Unspecified,,,,250,IC50,>,250000,nM,Outside typical range
+C1=CC=C(C=C1)N2C(=CC=N2)N(CCCO)S(=O)(=O)C3=CC=C(C=C3)N,Unspecified,,,,22,IC50,=,22000,nM,
+C1=CC=C(C=C1)N2C(=CC=N2)N(CCCCO)S(=O)(=O)C3=CC=C(C=C3)C4=CC(=CC=C4)[N+](=O)[O-],Unspecified,,,,250,IC50,>,250000,nM,Outside typical range
+C1=CC=C(C=C1)N2C(=CC=N2)N(CCO)S(=O)(=O)C3=CC=C(C=C3)C4=CC(=CC=C4)[N+](=O)[O-],Unspecified,,,,250,IC50,>,250000,nM,Outside typical range
+CC1=CC=C(C=C1)S(=O)(=O)N(C)C2=CC=NN2C3=CC=CC=C3,Unspecified,,,,180,IC50,=,180000,nM,Outside typical range
+C1=CC=C(C=C1)N2C(=CC=N2)N(CCCO)S(=O)(=O)C3=CC=C(C=C3)C4=CC(=CC=C4)[N+](=O)[O-],Unspecified,,,,250,IC50,>,250000,nM,Outside typical range
+C1=CC=C(C=C1)N2C(=CC=N2)N(CCCO)S(=O)(=O)C3=CC=C(C=C3)C4=CC(=CC=C4)N,Unspecified,,,,13,IC50,=,13000,nM,
+CCCN(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)C,Unspecified,,,,15,IC50,=,15000,nM,
+C=CCC1=CC=C(C=C1)S(=O)(=O)N(CC2=CC=CC=C2)C3=CC=NN3C4=CC=CC=C4,Unspecified,,,,30,IC50,=,30000,nM,
+CN(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)CC=C,Unspecified,,,,20,IC50,=,20000,nM,
+CC(C)CCN(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)N,Active,,,,3,IC50,=,3000,nM,
+CC(C)N(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)N,Unspecified,,,,30,IC50,=,30000,nM,
+C=CCC1=CC=C(C=C1)S(=O)(=O)N(CCCO)C2=CC=NN2C3=CC=CC=C3,Unspecified,,,,35,IC50,=,35000,nM,
+CCN(C1=CC=NN1C2=CC=CC=C2)S(=O)(=O)C3=CC=C(C=C3)N,Unspecified,,,,13,IC50,=,13000,nM,
+C1=CC=C(C=C1)N2C(=CC=N2)N(CCCO)S(=O)(=O)C3=CC=C(C=C3)CCCN,Unspecified,,,,200,IC50,>,200000,nM,Outside typical range
+C1=CC=C(C=C1)N2C(=CC=N2)NS(=O)(=O)C3=CC=C(C=C3)C4=CC(=CC=C4)N,Active,,,,8,IC50,=,8000,nM,
